@@ -1,0 +1,4 @@
+- /node_modules
+- /.pulp-cache
+- /output
+- /.spago
